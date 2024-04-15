@@ -2,9 +2,10 @@
 
 ## 基本情報
 - [シラバス](https://drive.google.com/file/d/1sUzU0WA4L02f-uDK9b0jk3K54S0p23qL/)
-- [Google Meet](https://meet.google.com/cez-srkd-scn)
+- [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - [Slack](https://datgm23.slack.com/)
 - [金曜日程](https://github.com/datgm24/gp1/blob/main/fri.md)
+- [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)
 
 ## 参考URL / 図書
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
