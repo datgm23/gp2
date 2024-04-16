@@ -43,4 +43,25 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 1回目(4/19)
 
+### 話題
+- [ゲームクリエイター甲子園2024](https://game.creators-guild.com/gck/)
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+  - 卒業制作とは別に、研究テーマや個人の企画でも参加するとよい
+
+### 予定
+
+- ガイダンス
+  - [シラバス](https://drive.google.com/file/d/1sUzU0WA4L02f-uDK9b0jk3K54S0p23qL/)
+- 研究用ドキュメントの作成と共有
+  - 1年で作成したブログサービスを利用。以下、ブログサービス例
+    - [Qiita](https://qiita.com/)
+    - [はてなブログ](https://hatena.blog/)
+    - [note](https://note.com/)
+    - [Zenn](https://zenn.dev/)
+    - [Notion](https://www.notion.so/ja-jp)
+    - [WiX](https://ja.wix.com/)
+  - テーマを考える
+    - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
+  - 考えたテーマを表題にしたブログ記事を作成して限定公開する。確認できるURLを [こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link) から送信
