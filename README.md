@@ -55,7 +55,7 @@
 - ガイダンス
   - [シラバス](https://drive.google.com/file/d/1sUzU0WA4L02f-uDK9b0jk3K54S0p23qL/)
 - 研究用ドキュメントの作成と共有
-  - 1年で作成したブログサービスを利用。以下、ブログサービス例
+  - ブログサービスのアカウントを作成する。以下、サービスリスト
     - [Qiita](https://qiita.com/)
     - [はてなブログ](https://hatena.blog/)
     - [note](https://note.com/)
