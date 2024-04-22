@@ -47,6 +47,7 @@
 
 ### 話題
 - チーム制作の要点 [unity1week online共有会 #15. うにうにちゃん: 無理の無い共同開発](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=3944s)
+- 他校の学生さんの活動例 [えふぇこ: u1w反省会](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=4486s)
 
 ### 予定
 - GitHubのチーム利用の練習
