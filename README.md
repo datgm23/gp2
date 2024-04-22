@@ -43,14 +43,24 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 2回目(4/26)
+
+### 予定
+
 ## 1回目(4/19)
+- GitHubのチーム利用の練習
+  - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
+  - ブランチ操作
+- 習作プロジェクトの紹介
+  - [Voxelorer Birdひよこ編](https://github.com/am1tanaka/VBirdHiyoko)
+- 個人テーマの調査と進捗共有
 
 ### 話題
 - [ゲームクリエイター甲子園2024](https://game.creators-guild.com/gck/)
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
   - 卒業制作とは別に、研究テーマや個人の企画でも参加するとよい
 
-### 予定
+### 内容
 
 - ガイダンス
   - [シラバス](https://drive.google.com/file/d/1sUzU0WA4L02f-uDK9b0jk3K54S0p23qL/)
