@@ -46,14 +46,14 @@
 ## 2回目(4/26)
 
 ### 予定
-
-## 1回目(4/19)
 - GitHubのチーム利用の練習
   - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
   - ブランチ操作
 - 習作プロジェクトの紹介
   - [Voxelorer Birdひよこ編](https://github.com/am1tanaka/VBirdHiyoko)
 - 個人テーマの調査と進捗共有
+
+## 1回目(4/19)
 
 ### 話題
 - [ゲームクリエイター甲子園2024](https://game.creators-guild.com/gck/)
