@@ -43,6 +43,11 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 3回目(5/10)
+
+### 予定
+- GP2Sandboxのキャラ移動で空中に浮く症状を解決する
+
 ## 2回目(4/26)
 
 ### 話題
