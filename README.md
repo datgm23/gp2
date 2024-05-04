@@ -47,6 +47,14 @@
 
 ### 予定
 - GP2Sandboxのキャラ移動で空中に浮く症状を解決する
+- 共同開発練習(2)
+  - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)
+  - ブランチ操作
+- 習作プロジェクトの企画と仕様
+  - 2Dプラットフォーマー
+  - ネットワーク
+- 研究テーマの共有
+
 
 ## 2回目(4/26)
 
@@ -59,7 +67,6 @@
 ### 予定
 - GitHubのチーム利用の練習
   - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
-  - ブランチ操作
 - 習作プロジェクトの紹介
   - [Voxelorer Birdひよこ編](https://github.com/am1tanaka/VBirdHiyoko)
 - 個人テーマの調査と進捗共有
