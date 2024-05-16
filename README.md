@@ -43,9 +43,20 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 3回目(5/10)
+## 4回目(5/17)
 
 ### 予定
+- GP2Sandboxのキャラ移動で空中に浮く症状を解決する
+  - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)
+- 習作プロジェクトの企画と仕様
+  - [マルチプレイボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+  - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
+- 研究テーマの共有
+
+
+## 3回目(5/10)
+
+### 内容
 - GP2Sandboxのキャラ移動で空中に浮く症状を解決する
 - 共同開発練習(2)
   - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)
