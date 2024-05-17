@@ -49,7 +49,7 @@
 - GP2Sandboxのキャラ移動で空中に浮く症状を解決する
   - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)
 - 習作プロジェクトの企画と仕様
-  - [マルチプレイボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+  - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
   - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
 - 研究テーマの共有
 
