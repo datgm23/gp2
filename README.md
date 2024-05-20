@@ -43,16 +43,21 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 4回目(5/17)
+## 5回目(5/24)
 
 ### 予定
-- GP2Sandboxのキャラ移動で空中に浮く症状を解決する
-  - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)
-- 習作プロジェクトの企画と仕様
+- 設計演習2
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
   - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
-- 研究テーマの共有
 
+## 4回目(5/17)
+
+### 内容
+- GP2Sandboxのキャラ移動で空中に浮く症状を解決する
+  - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)
+- タスクのリストアップとシステムの抽象化
+  - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+  - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
 
 ## 3回目(5/10)
 
@@ -61,11 +66,6 @@
 - 共同開発練習(2)
   - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)
   - ブランチ操作
-- 習作プロジェクトの企画と仕様
-  - 2Dプラットフォーマー
-  - ネットワーク
-- 研究テーマの共有
-
 
 ## 2回目(4/26)
 
@@ -75,7 +75,7 @@
 - ゲーム業界内の人にとっての1週間ゲームジャム [unity1week online共有会 #15. デブェロッパー: 単語バトルはどうやって作った？または"バネ"を作ること、使うこと](https://www.youtube.com/live/wmF1z5Epr1g?feature=shared&t=6748)
 - [濱村崇. ゲームデザインについてのツイート](https://twitter.com/GDLab_Hama/status/1783624998030324082)
 
-### 予定
+### 内容
 - GitHubのチーム利用の練習
   - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
 - 習作プロジェクトの紹介
