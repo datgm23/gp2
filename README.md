@@ -47,8 +47,9 @@
 
 ### 予定
 - 設計演習2
-  - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
   - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
+    - テスト作成と共有
+  - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
 
 ## 4回目(5/17)
 
@@ -57,7 +58,9 @@
   - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)
 - タスクのリストアップとシステムの抽象化
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+    - 要求定義から、具体的な実装方法を検討
   - [2Dプラットフォーマー](https://docs.google.com/spreadsheets/d/1smu9EUd4ehJQEzTXt4OkNBkW4M1INJnwU0mSwitMsS8/)
+    - Unityの挙動の確認と方針の検討
 
 ## 3回目(5/10)
 
