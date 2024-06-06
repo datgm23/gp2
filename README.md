@@ -47,14 +47,13 @@
 
 ### 予定
 
-## 6回目(5/31)
-
 - 設計演習4
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
     - コマンド実行システム仕上げ
   - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
     - 移動処理の実装
 
+## 6回目(5/31)
 
 ### 内容
 - 設計演習3
