@@ -43,9 +43,20 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 7回目(6/7)
+## 8回目(6/14)
 
 ### 予定
+
+- [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+  - サイコロ、ターンの進行、結果、結果からタイトルへの仕様を考える
+- [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
+  - 斜面中のジャンプを解消したものを、各自に配布
+  - [ ] 各プロジェクトへ組み込み
+
+
+## 7回目(6/7)
+
+### 内容
 
 - 設計演習4
   - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
