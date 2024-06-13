@@ -47,11 +47,11 @@
 
 ### 予定
 
-- [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
-  - サイコロ、ターンの進行、結果、結果からタイトルへの仕様を考える
 - [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
   - 斜面中のジャンプを解消したものを、各自に配布
   - [ ] 各プロジェクトへ組み込み
+- [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+  - サイコロ、ターンの進行、結果、結果からタイトルへの仕様を考える
 
 
 ## 7回目(6/7)
