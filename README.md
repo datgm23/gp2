@@ -8,6 +8,8 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)
 
 ## 参考URL / 図書
+- [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+- [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 - [シェーダーの基礎 The Book of Shaders](https://thebookofshaders.com/?lan=jp)
 - [paiza](https://paiza.jp/)
