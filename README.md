@@ -56,6 +56,7 @@
 - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
   - サイコロ、ターンの進行、結果、結果からタイトルへの仕様を考える
 - [カラーチェンジャー進捗](https://docs.google.com/document/d/1YBLEpgUKyBmfDpI6P4sknr_gBJJnn042yYEqGl84Cuk/)
+- [磁石進捗](https://docs.google.com/document/d/1umbWKQmiz_B2hOF6UNwQ0F2cLqs0JbrZeTLQlEzPYJo/)
 
 ## 7回目(6/7)
 
