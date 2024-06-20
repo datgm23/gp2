@@ -50,15 +50,15 @@
 ### 予定
 
 - `X:\2024年\ゲーム学科\gp2\進捗報告会`に、作品名のフォルダーを作成して、発表資料と、実演をする場合はビルドフォルダーをコピーする
-- [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
-  - 斜面中のジャンプを解消したものを、各自に配布
-  - [x] 各プロジェクトへ組み込み [Platformer2DDev](https://github.com/datgm24/Platformer2DDev)を開く
 - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
   - [ ] エラーをなくす
   - [ ] ゲームループに必要なシーンを整理する
   - [ ] ホストシステムを組み込む
   - [ ] ホストシステムを使って、ゲームループを動かす
   - [x] サイコロ、ターンの進行、結果、結果からタイトルへの仕様を考える
+- [2Dプラットフォーマー](https://docs.google.com/document/d/1SJmWqTKZVIppwUJYxHojuIE40pbZG7M5Rr_q0Aj1Ero/)
+  - 斜面中のジャンプを解消したものを、各自に配布
+  - [x] 各プロジェクトへ組み込み [Platformer2DDev](https://github.com/datgm24/Platformer2DDev)を開く
 - [カラーチェンジャー進捗](https://docs.google.com/document/d/1YBLEpgUKyBmfDpI6P4sknr_gBJJnn042yYEqGl84Cuk/)
 - [磁石進捗](https://docs.google.com/document/d/1umbWKQmiz_B2hOF6UNwQ0F2cLqs0JbrZeTLQlEzPYJo/)
 
