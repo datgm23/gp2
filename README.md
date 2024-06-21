@@ -63,6 +63,25 @@
 - [カラーチェンジャー進捗](https://docs.google.com/document/d/1YBLEpgUKyBmfDpI6P4sknr_gBJJnn042yYEqGl84Cuk/)
 - [磁石進捗](https://docs.google.com/document/d/1umbWKQmiz_B2hOF6UNwQ0F2cLqs0JbrZeTLQlEzPYJo/)
 
+### GitHubでのマージに関するメモ
+
+Merge=マージ=統合
+
+#### マージの問題
+- 別々の人が、同じファイルの同じ場所を、別の内容に変更した場合、どちらが正しいかを判断する必要がある！！ ＝　自動的にマージできない ＝　コンフリクト（衝突）
+
+#### コンフリクトを避けるには
+- シーンファイルやプレハブでコンフリクトが発生しやすい
+- シーンやプレハブは、複数人で編集しないようにする＝チーム内でルールを作って運用
+- mainなどへ統合するマージは、メンバーが勝手に行わない＝マージの担当者を決めて運用
+
+#### マージ作業
+- マージしたい先のブランチに切り替え
+- Current branchボタンから、Choose a branch to merge into ...をクリック
+- コンフリクトが発生していなければ、Create a merge commitをクリックすれば完了
+
+
+
 ## 7回目(6/7)
 
 ### 内容
