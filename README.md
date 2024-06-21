@@ -51,6 +51,7 @@
 
 - `X:\2024年\ゲーム学科\gp2\進捗報告会`に、作品名のフォルダーを作成して、発表資料と、実演をする場合はビルドフォルダーをコピーする
 - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
+  - [お金くれ作業メモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
   - [ ] エラーをなくす
   - [ ] ゲームループに必要なシーンを整理する
   - [ ] ホストシステムを組み込む
