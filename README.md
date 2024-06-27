@@ -47,10 +47,15 @@
 
 ## 10回目(6/28)
 
-DATフェスタに向けた方針の検討、および、コードレビュー。
-
 ### 予定
-- 1コマ1作品
+- DATフェスタに向けた方針の検討
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+  - [カラーチェンジャーメモ](https://docs.google.com/document/d/1YBLEpgUKyBmfDpI6P4sknr_gBJJnn042yYEqGl84Cuk/)
+  - [磁石メモ](https://docs.google.com/document/d/1umbWKQmiz_B2hOF6UNwQ0F2cLqs0JbrZeTLQlEzPYJo/)
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+
+- 1コマ1作品　改善案
   - [磁石メモ](https://docs.google.com/document/d/1umbWKQmiz_B2hOF6UNwQ0F2cLqs0JbrZeTLQlEzPYJo/)
   - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
   - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
