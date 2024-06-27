@@ -45,9 +45,20 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 8, 9回目(6/14, 21)
+## 10回目(6/28)
 
 ### 予定
+- 1コマ1作品
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+  - [カラーチェンジャーメモ](https://docs.google.com/document/d/1YBLEpgUKyBmfDpI6P4sknr_gBJJnn042yYEqGl84Cuk/)
+  - [磁石メモ](https://docs.google.com/document/d/1umbWKQmiz_B2hOF6UNwQ0F2cLqs0JbrZeTLQlEzPYJo/)
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+
+
+## 8, 9回目(6/14, 21)
+
+### 内容
 
 - `X:\2024年\ゲーム学科\gp2\進捗報告会`に、作品名のフォルダーを作成して、発表資料と、実演をする場合はビルドフォルダーをコピーする
 - [マルチプレヤーボードゲーム用のホストシステム](https://docs.google.com/document/d/1f-Ns7123tPVUsf3h9yLxPILa0zyWUSyMfWfRXkK1SYk/)
