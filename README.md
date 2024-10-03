@@ -45,13 +45,38 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 後期1回目(10/4)
+
+### 予定
+
+- すい～つ
+  - 統合したものの調整
+  - ステージ作成
+  - タイトル、ゲームオーバー、クリア、エンディングの検討
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+- お金くれ
+  - 統合して、まとめる
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+- スゴロク
+  - ターン進行の実装
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+- 瑠璃港
+  - 操作とアニメができるものを目指す
+  - [瑠璃港メモ](https://docs.google.com/document/d/1TEAtwwKuvZYmJgFi2UniYis-cnWe0W93RVQwCo3RfOM/)
+- Wolf Editor戦闘ゲーム
+- その他
+  - 進捗を確認して、展示できそうなものは展示
+
+---
+
+
 ## 15回目(9/6)
 
 ### 話題
 
 - [ゲームメーカーズ. Unityのノウハウや機能を解説した日本語版の電子書籍6冊、Unity公式サイトにて無料で公開中](https://gamemakers.jp/article/2024_09_05_78468/)
 
-### 予定
+### 内容
 
 - DATフェスタに向けた技術的な課題の確認
 
