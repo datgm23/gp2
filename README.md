@@ -45,9 +45,31 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 後期1回目(10/4)
+
+## 後期2回目(10/11)
 
 ### 予定
+
+- スゴロク
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+  - ターン進行の実装
+- お金くれ
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+  - ネット対応方針の検討。Mirror or Photon
+- すい～つ
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+  - 残りの作業の検討
+- 瑠璃港
+  - [瑠璃港メモ](https://docs.google.com/document/d/1TEAtwwKuvZYmJgFi2UniYis-cnWe0W93RVQwCo3RfOM/)
+  - 操作とアニメができるものを目指す
+- Wolf Editor戦闘ゲーム
+- その他
+  - 進捗を確認して、展示できそうなものは展示
+
+
+## 後期1回目(10/4)
+
+### 内容
 
 - すい～つ
   - 統合したものの調整
