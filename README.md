@@ -46,9 +46,30 @@
 - [GDevelop](https://gdevelop.io/ja-jp)
 
 
-## 後期2回目(10/11)
+## 後期3回目(10/18)
 
 ### 予定
+
+- スゴロク
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+  - コマを進む処理
+- お金くれ
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+  - Photon Realtime対応。部屋に接続できない原因を調べる
+- すい～つ
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+  - できたものの統合
+- 瑠璃港
+  - [瑠璃港メモ](https://docs.google.com/document/d/1TEAtwwKuvZYmJgFi2UniYis-cnWe0W93RVQwCo3RfOM/)
+  - 操作とアニメができるものを目指す
+- Wolf Editor戦闘ゲーム
+- その他
+  - 進捗を確認して、展示できそうなものは展示
+
+
+## 後期2回目(10/11)
+
+### 内容
 
 - スゴロク
   - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
