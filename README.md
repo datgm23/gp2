@@ -48,6 +48,9 @@
 
 ## 後期3回目(10/18)
 
+### 話題
+- [Unity6がリリース](https://unity.com/ja/releases/unity-6)
+
 ### 予定
 
 - スゴロク
