@@ -46,7 +46,7 @@
 - [GDevelop](https://gdevelop.io/ja-jp)
 
 
-## 後期3回目(10/18)
+## 後期4回目(10/25)
 
 ### 予定
 
