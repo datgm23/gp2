@@ -48,10 +48,32 @@
 
 ## 後期3回目(10/18)
 
+### 予定
+
+- 木曜に、全体の進捗確認
+- スゴロク
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+  - バグ修正
+- お金くれ
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+  - Photon Realtime対応。送受信クラスを実装
+- すい～つ
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+  - できたものの統合
+- 瑠璃港
+  - [瑠璃港メモ](https://docs.google.com/document/d/1TEAtwwKuvZYmJgFi2UniYis-cnWe0W93RVQwCo3RfOM/)
+  - 操作とアニメができるものを目指す
+- Wolf Editor戦闘ゲーム
+- その他
+  - 進捗を確認して、展示できそうなものは展示
+
+
+## 後期3回目(10/18)
+
 ### 話題
 - [Unity6がリリース](https://unity.com/ja/releases/unity-6)
 
-### 予定
+### 内容
 
 - スゴロク
   - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
