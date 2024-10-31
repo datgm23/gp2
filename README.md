@@ -45,10 +45,45 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 後期5回目(11/1)
+
+### 展示要件
+- 現場に人がいなくても、操作できる状態にする
+- ゲームオーバーやクリアをしたら、リスタートできるようにする
+- リスタートの機能が実装できていない場合は、ゲームオーバーやクリアを削除して、ずっとゲーム画面のままにしておく
+- データを共有ドライブに出力して、ほかのPCで動作するかと、展示状況を確認する
+
+### 予定
+
+- スゴロク
+  - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
+- お金くれ
+  - [お金くれメモ](https://docs.google.com/document/d/1kkCW5tKTdhaQawZSuedoaIStSd7WhaSevsEi1q9mtJ0/)
+- すい～つ
+  - [すいーつメモ](https://docs.google.com/document/d/1psmvnK20fQXnmdbV1-QnfecpdVE12s4DR9egtjnzmB8/)
+- 瑠璃港
+  - [瑠璃港メモ](https://docs.google.com/document/d/1TEAtwwKuvZYmJgFi2UniYis-cnWe0W93RVQwCo3RfOM/)
+- Wolf Editor戦闘ゲーム
+- その他
+  - 進捗を確認して、展示できそうなものは展示
+- [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
+  - [例](https://www.google.com/search?q=%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0+%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4_tjW6tXzAhVFeXAKHTSpBNcQ_AUoAXoECAEQAw&biw=1035&bih=891&dpr=1)
+  - A4カラー or A3カラーの横 1ページ
+  - アクリルスタンドで立てる(A4縦)か、モニターに貼る(A3横)
+  - ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバークレジットを書く
+  - PowerPointを使って、A4の縦方向に設定する例。それぞれ、作りたいカードにあわせて読み替える
+    - デザインタブに切り替え
+    - スライドのサイズから、ユーザー設定のスライドのサイズを選択
+    - スライドのサイズ指定をA4、印刷の向きをスライドの縦を選択してOK
+- 実行ファイルをビルドして、以下の要領でコピーしておく
+  - `X:\2024年\ゲーム学科\gp2\DATフェスタ実行ファイル` の中に作品名のフォルダーを作成して、その中にビルドした実行ファイルをコピーする
+  - ビルドができない場合は、プロジェクトフォルダーまるごとでよい
+  - コピーしたものを、ほかのPCから実行できるか確認する
+
 
 ## 後期4回目(10/25)
 
-### 予定
+### 内容
 
 - 木曜に、全体の進捗確認
 - スゴロク
