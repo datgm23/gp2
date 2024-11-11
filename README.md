@@ -45,6 +45,19 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+
+## 後期6回目(11/15)
+
+### 予定
+
+- 提出物のコードレビュー
+- [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+  - 例
+    - [【Godot】ボタンなどのGUIの見た目を調整する](https://am1.jp/godot/dev/gui-theme/)
+    - [【Godot4.2.x】はじめてのGodotフラグメントシェーダー](https://am1tanaka.hatenablog.com/entry/godot-fragshader)
+    - [Godotのインストールなどの記事](https://am1.jp/tabs/godot-top.html)
+
+
 ## 後期5回目(11/1)
 
 ### 展示要件
@@ -53,7 +66,7 @@
 - リスタートの機能が実装できていない場合は、ゲームオーバーやクリアを削除して、ずっとゲーム画面のままにしておく
 - データを共有ドライブに出力して、ほかのPCで動作するかと、展示状況を確認する
 
-### 予定
+### 内容
 
 - スゴロク
   - [すごろくメモ](https://docs.google.com/document/d/1K2kBxN3sbmLJNSLCCyM4YIj5-VlllfNhYI3nhM2y_2c/)
