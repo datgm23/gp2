@@ -55,8 +55,6 @@
   - 例
     - [【Godot】ボタンなどのGUIの見た目を調整する](https://am1.jp/godot/dev/gui-theme/)
     - [【Godot4.2.x】はじめてのGodotフラグメントシェーダー](https://am1tanaka.hatenablog.com/entry/godot-fragshader)
-    - [Godotのインストールなどの記事](https://am1.jp/tabs/godot-top.html)
-
 
 ## 後期5回目(11/1)
 
