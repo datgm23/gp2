@@ -51,6 +51,7 @@
 ### 予定
 
 - 提出物のコードレビュー
+  - 参考にしたもの、元になったもの、使用アセットの整理
 - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - 最終課題相談
   - 例
