@@ -49,6 +49,7 @@
 
 ### 話題
 
+- [Qiitaアドベントカレンダー2024](https://qiita.com/advent-calendar/2024)
 - [技術書典展示報告ブログ](https://am1tanaka.hatenablog.com/entry/2024/11/14/203136)
 
 ### 予定
