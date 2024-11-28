@@ -45,6 +45,18 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 後期8回目(11/29)
+
+### 予定
+
+- 最終課題：現状の調査
+- 調査結果の共有
+- [NPC対戦処理の実装](https://docs.google.com/document/d/1ExSo2PgoBF7mU3q-ww8yr5ocf2XC2loHORGXr7zeVdk/)
+  - [仕様書：NPC対戦](https://docs.google.com/spreadsheets/d/1UVK8fH6SCK49FeHgm4RK6q5biK-ATG2XJHeWRyQeF5k/)
+  - [NPCの検討](https://docs.google.com/document/d/1G0ULmkBI_946fYDJDgU7HHMpYwIWGXem-Qu0--DESWc/)
+  - PlayerControllerから、入力からアクションを呼び出す仕組みの実装
+  - ゲーム開始時に、GamePlayから、PlayerControllerのStartPlay()を呼び出す
+
 ## 後期7回目(11/22)
 
 ### 話題
@@ -52,7 +64,7 @@
 - [Qiitaアドベントカレンダー2024](https://qiita.com/advent-calendar/2024)
 - [技術書典展示報告ブログ](https://am1tanaka.hatenablog.com/entry/2024/11/14/203136)
 
-### 予定
+### 内容
 
 - 最終課題：現状の調査
 - 調査結果の共有
