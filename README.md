@@ -45,7 +45,7 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 後期8回目(11/29)
+## 後期9回目(12/6)
 
 ### 予定
 
