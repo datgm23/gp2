@@ -47,6 +47,10 @@
 
 ## 後期9回目(12/6)
 
+### 話題
+
+- [Godot Engineアドベントカレンダー2024. 4日目ブログを公開](https://am1tanaka.hatenablog.com/entry/godot-adcale2024-12-04)
+
 ### 予定
 
 - 最終課題：現状の調査
