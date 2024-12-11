@@ -45,10 +45,11 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 後期9回目(12/6)
+## 後期9-10回目(12/6, 13)
 
 ### 話題
 
+- [Unityアドベントカレンダー2024. 12日目ブログを公開](https://am1tanaka.hatenablog.com/entry/unity-adcale24-awaitable)
 - [Godot Engineアドベントカレンダー2024. 4日目ブログを公開](https://am1tanaka.hatenablog.com/entry/godot-adcale2024-12-04)
 
 ### 予定
