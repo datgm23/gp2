@@ -59,6 +59,7 @@
 - [NPC対戦処理の実装](https://docs.google.com/document/d/1ExSo2PgoBF7mU3q-ww8yr5ocf2XC2loHORGXr7zeVdk/)
   - [仕様書：NPC対戦](https://docs.google.com/spreadsheets/d/1UVK8fH6SCK49FeHgm4RK6q5biK-ATG2XJHeWRyQeF5k/)
   - [NPCの検討](https://docs.google.com/document/d/1G0ULmkBI_946fYDJDgU7HHMpYwIWGXem-Qu0--DESWc/)
+  - [採点方法](https://docs.google.com/spreadsheets/d/1UVK8fH6SCK49FeHgm4RK6q5biK-ATG2XJHeWRyQeF5k/edit?gid=1070506607#gid=337667075) に記載した、最寄りの攻撃地点への移動を採点する処理を検討する
   - PlayerControllerから、入力からアクションを呼び出す仕組みの実装
   - ゲーム開始時に、GamePlayから、PlayerControllerのStartPlay()を呼び出す
 
