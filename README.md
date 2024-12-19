@@ -45,7 +45,7 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 後期9-10回目(12/6, 13)
+## 後期9-11回目(12/6, 13, 20)
 
 ### 話題
 
@@ -56,6 +56,7 @@
 
 - 最終課題：現状の調査
 - 調査結果の共有
+- [Yoketoru2024リポジトリー](https://github.com/datgm24/Yoketoru2024)
 - [NPC対戦処理の実装](https://docs.google.com/document/d/1ExSo2PgoBF7mU3q-ww8yr5ocf2XC2loHORGXr7zeVdk/)
   - [仕様書：NPC対戦](https://docs.google.com/spreadsheets/d/1UVK8fH6SCK49FeHgm4RK6q5biK-ATG2XJHeWRyQeF5k/)
   - [NPCの検討](https://docs.google.com/document/d/1G0ULmkBI_946fYDJDgU7HHMpYwIWGXem-Qu0--DESWc/)
