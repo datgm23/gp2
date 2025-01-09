@@ -51,7 +51,7 @@
 
 - [Unity eBooks](https://unity3d.jp/game/game-ebooks/)
   - [Unity によるコンソールとPC向けゲームのパフォーマンス最適化 ー Unity 6版](https://unity3d.jp/game/console-pc-game-performance-optimization-unity-6-jp/)
-- よけとる設計教材
+- [よけとる設計教材(WIP)](https://drive.google.com/file/d/1108A-ESVDtWpphKsjx36GzouHmR0O2Z7/)
 
 ### 予定
 
