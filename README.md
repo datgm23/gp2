@@ -45,6 +45,23 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 後期12回目(1/10)
+
+### 話題
+
+- [Unity eBooks](https://unity3d.jp/game/game-ebooks/)
+  - [Unity によるコンソールとPC向けゲームのパフォーマンス最適化 ー Unity 6版](https://unity3d.jp/game/console-pc-game-performance-optimization-unity-6-jp/)
+- よけとる設計教材
+
+### 予定
+
+- [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+  - 例
+    - [【Godot】ボタンなどのGUIの見た目を調整する](https://am1.jp/godot/dev/gui-theme/)
+    - [【Godot4.2.x】はじめてのGodotフラグメントシェーダー](https://am1tanaka.hatenablog.com/entry/godot-fragshader)
+  - 進捗確認 / 校正
+
+
 ## 後期9-11回目(12/6, 13, 20)
 
 ### 話題
@@ -52,7 +69,7 @@
 - [Unityアドベントカレンダー2024. 12日目ブログを公開](https://am1tanaka.hatenablog.com/entry/unity-adcale24-awaitable)
 - [Godot Engineアドベントカレンダー2024. 4日目ブログを公開](https://am1tanaka.hatenablog.com/entry/godot-adcale2024-12-04)
 
-### 予定
+### 内容
 
 - 最終課題：現状の調査
 - 調査結果の共有
