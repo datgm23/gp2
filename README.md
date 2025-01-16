@@ -45,7 +45,7 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 後期12回目(1/10)
+## 後期12, 13回目(1/10, 17)
 
 ### 話題
 
