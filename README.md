@@ -45,6 +45,18 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 後期14回目(1/24)
+
+### 予定
+
+- [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+  - 進捗確認 / 校正
+  - 締め切り 12:20
+  - 例
+    - [【Godot】ボタンなどのGUIの見た目を調整する](https://am1.jp/godot/dev/gui-theme/)
+    - [【Godot4.2.x】はじめてのGodotフラグメントシェーダー](https://am1tanaka.hatenablog.com/entry/godot-fragshader)
+
+
 ## 後期12, 13回目(1/10, 17)
 
 ### 話題
@@ -53,7 +65,7 @@
   - [Unity によるコンソールとPC向けゲームのパフォーマンス最適化 ー Unity 6版](https://unity3d.jp/game/console-pc-game-performance-optimization-unity-6-jp/)
 - [よけとる設計教材](https://am1tanaka.github.io/YoketoruPracticeDocs/)
 
-### 予定
+### 内容
 
 - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - 締め切り 1/24(金)
