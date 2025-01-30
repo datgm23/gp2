@@ -45,9 +45,17 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 後期14回目(1/24)
+## 後期15回目(1/31)
 
 ### 予定
+
+- 総復習
+- 最終レポートの確認
+- バックアップ
+
+## 後期14回目(1/24)
+
+### 内容
 
 - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - 進捗確認 / 校正
